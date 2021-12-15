@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=AbdellatifMamoun)
 
-📫 You can find me on :
+## 📫 You can find me on :
 
 [<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][Kaggle]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -41,13 +41,13 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
 <a href="https://github.com/AbdellatifMamoun/AbdellatifMamoun">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdellatifMamoun&show_icons=true" alt="Abdellatif's GitHub Stats" />
 </a>
-  
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 <!-- links to social media icons -->
 
