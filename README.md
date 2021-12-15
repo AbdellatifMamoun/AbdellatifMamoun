@@ -17,8 +17,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/AbdellatifMamoun/AbdellatifMamoun/blob/main/wallpaperaccess-data-science.jpg" width="800" title="data science">
 </p>
 
-Data is a precious thing and will last longer than the systems themselves.
-<i>Tim Berners-Lee</i>
+<p align="center">
+  Data is a precious thing and will last longer than the systems themselves.
+  <br/>
+  <i>Tim Berners-Lee</i>
+</p>
 
 
 
