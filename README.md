@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/AbdellatifMamoun/AbdellatifMamoun/blob/main/wallpaperaccess-data-science.jpg" width="800" title="data science">
+  <img src="https://github.com/AbdellatifMamoun/AbdellatifMamoun/blob/main/wallpaperaccess-data-science.jpg" width="700" title="data science">
 </p>
 
 <p align="center">
