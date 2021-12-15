@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://i0.wp.com/thedatascientist.com/wp-content/uploads/2021/03/data-science.png?fit=1920%2C1080&ssl=1 "Header")]()
+[![Header](https://i0.wp.com/thedatascientist.com/wp-content/uploads/2021/03/data-science.png?fit=1920%2C1080&ssl=1 width="700" "Header")]()
 Data is a precious thing and will last longer than the systems themselves.
 
 Tim Berners-Lee
