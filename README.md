@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Header](https://i0.wp.com/thedatascientist.com/wp-content/uploads/2021/03/data-science.png?fit=1920%2C1080&ssl=1 "Header")]()
+
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">
   My name is Abdellatif Mamoun and I am a junior Data Scientist. 
