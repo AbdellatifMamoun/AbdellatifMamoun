@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/AbdellatifMamoun/AbdellatifMamoun/blob/main/wallpaperaccess-data-science.jpg" width="600" title="data science">
+  <img src="https://github.com/AbdellatifMamoun/AbdellatifMamoun/blob/main/wallpaperaccess-data-science.jpg" width="800" title="data science">
 </p>
-<h1 align='center'>
-  Data is a precious thing and will last longer than the systems themselves.
-  <br />
-  <i>Tim Berners-Lee</i>
-</h1>
+
+Data is a precious thing and will last longer than the systems themselves.
+<i>Tim Berners-Lee</i>
 
 
 
