@@ -12,11 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p align="center">
+  My name is Abdellatif Mamoun and I am a junior Data Scientist. 
+</p>
 
-My name is Abdellatif Mamoun and I am a junior Data Scientist. 
+![](https://komarev.com/ghpvc/?username=AbdellatifMamoun)
 
-📫 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+📫 You can find me on :
+
+[<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][Kaggle]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -38,18 +44,10 @@ My name is Abdellatif Mamoun and I am a junior Data Scientist.
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/AbdellatifMamoun/AbdellatifMamoun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdellatifMamoun&show_icons=true" alt="Abdellatif's GitHub Stats" />
 </a>
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+  
 
 <!-- links to social media icons -->
 
@@ -66,10 +64,8 @@ My name is Abdellatif Mamoun and I am a junior Data Scientist.
 
 
 <!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[Kaggle]: https://www.kaggle.com/abdellatifmamoun
+[linkedin]: https://www.linkedin.com/in/abdellatif-mamoun-066b16181/
 
 
 <!-- Resources -->
