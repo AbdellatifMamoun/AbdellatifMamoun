@@ -45,11 +45,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdellatifMamoun&show_icons=true" alt="Abdellatif's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/AbdellatifMamoun/AbdellatifMamoun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellatifMamoun&hide=jupyter%20notebook" />
 </a>
 
-<!-- links to social media icons -->
 
 <!-- icons with padding -->
 
