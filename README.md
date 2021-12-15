@@ -13,10 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://i0.wp.com/thedatascientist.com/wp-content/uploads/2021/03/data-science.png?fit=1920%2C1080&ssl=1 width="700" "Header")]()
-Data is a precious thing and will last longer than the systems themselves.
+<p align="center">
+  <img src="https://github.com/AbdellatifMamoun/AbdellatifMamoun/blob/main/wallpaperaccess-data-science.jpg" width="600" title="data science">
+</p>
+<h1 align='center'>
+  Data is a precious thing and will last longer than the systems themselves.
+  <br />
+  <i>Tim Berners-Lee</i>
+</h1>
 
-Tim Berners-Lee
+
 
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">
@@ -29,7 +35,7 @@ Tim Berners-Lee
 
 [<img align="left" alt="codeSTACKr | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][Kaggle]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
 
