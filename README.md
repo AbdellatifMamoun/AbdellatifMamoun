@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  Data is a precious thing and will last longer than the systems themselves.
+  <h1 Data is a precious thing and will last longer than the systems themselves.width="20px"></h1> 
   <br/>
   <i>Tim Berners-Lee</i>
 </p>
 
-
+##
 
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/AbdellatifMamoun/AbdellatifMamoun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellatifMamoun&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdellatifMamoun&" />
 </a>
 
 
