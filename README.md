@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <h2> Data is a precious thing and will last longer than the systems themselves.</h2> 
+  Data is a precious thing and will last longer than the systems themselves.
   <br/>
   <i>Tim Berners-Lee</i>
 </p>
-
 
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">
