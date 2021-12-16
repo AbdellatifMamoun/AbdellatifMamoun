@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <h1 Data is a precious thing and will last longer than the systems themselves.width="20px"></h1> 
+  <h1 Data is a precious thing and will last longer than the systems themselves.></h1> 
   <br/>
   <i>Tim Berners-Lee</i>
 </p>
