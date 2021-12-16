@@ -23,7 +23,6 @@ Here are some ideas to get you started:
   <i>Tim Berners-Lee</i>
 </p>
 
-##
 
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">
